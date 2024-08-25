@@ -39,3 +39,9 @@ iframe#tela {
     width: 267px;
     height: 475px;
 }
+
+img {
+    border-radius: 100%;
+    width: 70px;
+    display: block; 
+}
